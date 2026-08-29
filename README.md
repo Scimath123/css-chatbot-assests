@@ -14,4 +14,4 @@ Commit the change
 Click the uploaded image → click Raw → copy the URL
 Paste that URL into the relevant Dialogflow intent's Custom Payload response
 Example Raw URL format
-abacus.jpeg
+https://raw.githubusercontent.com/Scimath123/css-chatbot-assests/main/abacus.jpeg
